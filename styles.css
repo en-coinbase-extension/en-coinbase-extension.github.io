@@ -1,0 +1,42 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: #333;
+}
+
+header {
+    background: ;
+    color: #fff;
+    padding: 20px 10%;
+    text-align: center;
+}
+
+.intro, .why-use-extension, .setup-guide, .secure-your-extension {
+    padding: 20px 10%;
+}
+
+h1, h2 {
+    color: #0052FF;
+}
+
+ul, ol {
+    padding-left: 20px;
+}
+
+footer {
+    background: #f1f1f1;
+    padding: 20px 10%;
+    text-align: center;
+}
+
+a {
+    color: #0052FF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
